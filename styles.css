@@ -1,0 +1,43 @@
+h1 {
+    background-color: bisque;
+    background-position: center;
+    color: darkgoldenrod;
+    position: center;
+text-align: center;
+    
+}
+
+div {
+    background-color: coral;
+    padding: 2px;
+    border: 10px;
+    text-align: right;
+}
+
+img {
+   padding: 5px;
+   height: 500px;
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: flex;
+   align-content: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  tr:hover {background-color: #D6EEEE;}
